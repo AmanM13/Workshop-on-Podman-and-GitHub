@@ -1,0 +1,28 @@
+# PODMAN THEORY
+
+➢ What is runc
+➢ Runc vs Podman
+➢ Introduction of podman
+➢ Introduction to OCI
+➢ Installation
+➢ Running container with podman
+➢ Inspecting a running container
+➢ Port-forwarding using podman
+➢ Running a Pod using Podman
+➢ Port-forwarding with pod
+➢ Podman security
+  • Introduce capabilities
+➢ Podman networking
+  • Introduce capabilities
+  
+# HANDS-ON
+➢ Running simple container using podman
+➢ Inspecting container for ip and for other specification
+➢ Port-forwarding: Example of mario
+➢ Creating a pod
+➢ Creating a container inside pod
+➢ Creating multiple container in single pod
+➢ Inspecting a pod for accessing container
+➢ Running container with capabilities
+➢ Create network
+➢ Host an application using network
